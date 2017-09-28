@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{6530D1BD-51EB-4EFF-8733-BA819BDA7CE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="androidcompletion/packages.config">
+    <Files>
+      <File FileName="androidcompletion/MainActivity.fs" Line="5" Column="28" />
+      <File FileName="androidcompletion/packages.config" Line="4" Column="11" />
+      <File FileName="androidcompletion/androidcompletion.fsproj" Line="60" Column="11" />
+      <File FileName="androidcompletion/Resources/layout/Main.axml" Line="14" Column="1" />
+      <File FileName="androidcompletion/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="androidcompletion/Properties/AndroidManifest.xml" Line="5" Column="8" />
+      <File FileName="androidcompletion/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="androidcompletion/Properties/AssemblyInfo.fs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="androidcompletion" expanded="True">
+            <Node name="androidcompletion" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="androidcompletion" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>editor[newIndex]</Value>
+          <Value>editor.Text</Value>
+          <Value>editor.CaretOffset</Value>
+          <Value>line.Length</Value>
+          <Value>editor.Text.Length</Value>
+          <Value>line</Value>
+          <Value>editor.CaretColumn</Value>
+          <Value>editor[editor.CaretOffset]</Value>
+          <Value>index</Value>
+          <Value>editor[start]</Value>
+          <Value>editor[finish]</Value>
+          <Value>editor[start-1]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.androidcompletion PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
